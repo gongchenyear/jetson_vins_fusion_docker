@@ -1,9 +1,9 @@
--# Jetson_vins_fusion_docker_CN
+~~# Jetson_vins_fusion_docker_CN
 替换国内源版本，更适合中国宝宝体质,已测试构建镜像成功
 
 btw: 部分场景（pypi.python.org，github等）需要科学上网
 
-尽管如此，仍大幅度提升了构建速度-
+尽管如此，仍大幅度提升了构建速度~~
 
 还是代理Docker流量吧，太麻烦了
 
